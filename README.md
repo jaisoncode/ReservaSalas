@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Reserva de Salas
 
 Este é um projeto de reserva de salas que consiste em um frontend e um backend. O frontend é desenvolvido em HTML/CSS + JavaScript puro, e o backend em Java Spring Boot.
@@ -31,3 +32,6 @@ FLUSH PRIVILEGES;
 
 
 
+=======
+# gerenciadorDeSalas
+>>>>>>> 4578b0dac9651ff28b00cf238c7089235398af5c
